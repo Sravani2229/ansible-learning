@@ -1,0 +1,5 @@
+[local]
+localhost ansible_connection=local
+
+# [app]
+# server ansible_host=13.60.24.91 ansible_user=ubuntu
